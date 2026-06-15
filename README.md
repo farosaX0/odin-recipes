@@ -1,1 +1,2 @@
 # odin-recipes
+This Project is about developing and HTML multiple pages to include multiple recipes, This will develop your foundational skill in HTML like using the common tags and elements, including images and links stuff
